@@ -1,2 +1,2 @@
-# Bus-Ticket-Booking-Simulation
-Simulation of Bus Ticket Booking System on Python with Tkinter module and backend done on MySQL
+# Bus-Ticket-Booking-Simulation(GUI)
+Simulation of Bus Ticket Booking System on Python with Tkinter(for GUI) module and backend done on MySQL

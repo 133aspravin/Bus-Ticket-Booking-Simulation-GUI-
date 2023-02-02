@@ -2,7 +2,7 @@ import mysql.connector as sqltor
 from tkinter import*
 from functools import partial
 import random
-mycon=sqltor.connect(host='localhost',user='root',passwd='')
+mycon=sqltor.connect(host='localhost',user='root',passwd='    ')
 global cur
 cur=mycon.cursor()
 root = Tk()
